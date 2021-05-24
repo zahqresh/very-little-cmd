@@ -1,0 +1,16 @@
+{
+  "name": "very-little-cmd",
+  "version": "1.0.1",
+  "description": "A really small cli nodejs app to get and show user I/O from the command line.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-cli",
+    "cli",
+    "cmd"
+  ],
+  "author": "Muhammad Hamza",
+  "license": "MIT"
+}
